@@ -3,3 +3,6 @@ DOMAIN-KEYWORD,openai
 
 # sentry for ip leak
 DOMAIN-SUFFIX,sentry.io
+
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
