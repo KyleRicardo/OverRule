@@ -1,5 +1,7 @@
 # OpenAI, ChatGPT
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # sentry for ip leak
 DOMAIN-SUFFIX,sentry.io
